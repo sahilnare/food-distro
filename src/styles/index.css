@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#map {
+  height: 400px;  /* The height is 400 pixels */
+  width: 100%;  /* The width is the width of the web page */
+}
+
+
+.add-value {
+  margin: 20px 10px;
+  padding: 0 30px;
+}
+
+.header{
+    background-color: #fc6f03;
+}
+
+.header a{
+    color: white;
+    font-weight: 600;
+    font-size: large;
+}
+
+.input-field {
+  margin-bottom: 30px;
+  margin: 0 auto;
+}
+
+#header-img{
+    height: 130px;
+    width: 110px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+  margin-bottom: 40px;
+}
+
+#reg-form {
+  padding: 0 200px;
+}
+
+#reg-map {
+  margin: 40px auto;
+}
+
+section{
+    background-color: #f1f1f1;
+}
